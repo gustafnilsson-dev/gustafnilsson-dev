@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there Welcome to my repository 👋
 
+I am Gustaf, a software developer from Sweden currently studying @chasacademy
+feel free to follow my work!
+
+**Skills**
+- C, C++, C#, Python, HTML, CSS
+  
 <!--
 **gustafnilsson-dev/gustafnilsson-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
